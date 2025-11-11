@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.755" height="20.755" viewBox="0 0 20.755 20.755">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_1" data-name="Rectángulo 1" width="20.755" height="20.755" transform="translate(0.779 0.512)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Social_Icons" data-name="Social Icons" transform="translate(-0.779 -0.512)" clip-path="url(#clip-path)">
+    <path id="Trazado_1" data-name="Trazado 1" d="M20,.512H2.312a1.513,1.513,0,0,0-1.532,1.5V19.767a1.517,1.517,0,0,0,1.532,1.5H20a1.519,1.519,0,0,0,1.536-1.5V2.008A1.517,1.517,0,0,0,20,.512ZM6.937,18.2H3.856V8.291H6.937ZM5.4,6.942A1.784,1.784,0,1,1,7.18,5.158,1.785,1.785,0,0,1,5.4,6.942ZM18.465,18.2H15.389V13.383c0-1.147-.02-2.627-1.6-2.627-1.6,0-1.844,1.253-1.844,2.546v4.9H8.87V8.291h2.951V9.645h.041a3.233,3.233,0,0,1,2.91-1.6c3.117,0,3.693,2.051,3.693,4.718Z" fill="#fff"/>
+  </g>
+</svg>
